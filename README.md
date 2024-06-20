@@ -5,10 +5,12 @@
  time ./randomGenerator 10 10000000 | ./myPrimeCounter
 
 ## The original primeCounter time VS. our primeCounter time
+![Results-myPrimeCounter,givenprimeCounter](https://github.com/HadarBitan/Task2-advanced_programming/assets/86705118/c897cfe0-7a25-4109-ac75-50558314e6ff)
 
 
 
-## Memory spend of my program
+## Memory spend of our program
+![memoryUsesProof](https://github.com/HadarBitan/Task2-advanced_programming/assets/86705118/ab2bcfde-a648-493a-9805-63f68297ea04)
 
 
 
